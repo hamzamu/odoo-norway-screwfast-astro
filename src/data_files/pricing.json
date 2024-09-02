@@ -1,0 +1,39 @@
+{
+  "title": "Ready to Stand Out Online?",
+  "subTitle": "",
+  "badge": "Best value",
+  "thirdOption": "Enterprise Solutions?",
+  "btnText": "Get a Custom Quote",
+
+  "starterKit": {
+    "name": "Rookie",
+    "description": "Affordable Website Solutions for Growing Businesses",
+    "price": "Starting at 990",
+    "cents": ".00",
+    "billingFrequency": "kr / monthly",
+    "features": [
+      "Website design tailored to your brand",
+      "Affordable monthly rental fee",
+      "Ongoing maintenance and updates included",
+      "No large upfront investment required"
+    ],
+    "purchaseBtnTitle": "Get the Starter Kit",
+    "purchaseLink": "#"
+  },
+
+  "professionalToolbox": {
+    "name": "Veteran",
+    "description": "Premium, Custom-Built Websites for Established Brands",
+    "price": "Starting at 40 000",
+    "cents": ".00",
+    "billingFrequency": "kr / monthly",
+    "features": [
+      "Fully custom website design and development",
+      "Advanced features and integrations",
+      "Tailored to your specific business goals and vision",
+      "Dedicated support and project management"
+    ],
+    "purchaseBtnTitle": "Get the Professional Toolbox",
+    "purchaseLink": "#"
+  }
+}
